@@ -5,9 +5,13 @@
     box-sizing: content-box;
     text-decoration: none;
 }
-header{
+.cards{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+.card1{
+    width: 300px;
+    
 }
 img{
   width: 100%;
